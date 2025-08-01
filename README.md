@@ -1,53 +1,80 @@
-# Hi there 👋 I'm Nishaim Limbu
+<h1 align="center">Hi 👋, I'm Nishaim Limbu</h1>
+<h3 align="center">Aspiring AI/ML/DL Engineer & Web Developer from Nepal 🇳🇵</h3>
 
-I'm from Nepal 🇳🇵 and I'm passionate about building things with **AI**, **Machine Learning**, **Deep Learning**, and **Web Development**. I'm always learning something new and trying to apply it in small, real-world projects.
-
----
-
-## 👨‍💻 A little about me
-
-- 🌱 Currently learning and working with ML, DL, and frontend development
-- 🤖 I enjoy solving both **regression** and **classification** problems  
-- 📊 Also exploring **unsupervised learning** like clustering and dimensionality reduction
-- 🧹 I’m comfortable with cleaning and preparing messy data using tools like **Pandas**
-- 🎯 Most of my projects are focused on real-time prediction, quiz games, object detection, and data analysis
+<p align="center">
+  <img src="https://github.com/NishaimLimbu/NishaimLimbu/blob/main/assets/banner.png" alt="Profile Banner" />
+</p>
 
 ---
 
-## 🧠 Skills & Tools I Use
+### 👨‍💻 About Me
 
-**Languages & Frontend:**
-- Python 🐍, C
-- HTML, CSS
-
-**Libraries & Frameworks:**
-- NumPy, Pandas, Matplotlib, Seaborn
-- scikit-learn, TensorFlow
-- Streamlit (for making quick ML web apps)
-
----
-
-## 📁 A few things I’ve worked on
-
-- 💎 **Diamond Price Prediction App** using RandomForestRegressor and Streamlit  
-- 🎮 A **quiz game** using Python modules  
-- 🧍 **YOLOv8 Object Detection App** (person-only and multi-class versions)  
-- 📊 Notebooks for exploring and cleaning datasets using Pandas, Seaborn, and Matplotlib
+- 🎓 I’m learning and building with **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Frontend Web Development**
+- 🤖 Skilled in solving **supervised** (regression/classification) and **unsupervised** problems
+- 📊 Love working with real datasets: data cleaning, feature engineering, visualization, and model evaluation
+- 💡 I use tools like **RandomForestRegressor**, **TensorFlow**, **scikit-learn**, and more
+- 🌱 Always exploring new projects to improve my skills
+- 📫 Email: **shaming000731@gmail.com**
+- 💬 Facebook: [facebook.com/shaming.limbu.2025](https://www.facebook.com/shaming.limbu.2025)
 
 ---
 
-## 📬 Let's connect!
+### 🔧 Languages & Tools I Use
 
-- 📧 Email: shaming000731@gmail.com  
-- 🔗 GitHub: [github.com/NishaimLimbu](https://github.com/NishaimLimbu)  
-- 💬 Facebook: [facebook.com/shaming.limbu.2025](https://facebook.com/shaming.limbu.2025)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-1E405B?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats (Top Languages)
+### 📁 Notable Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaimLimbu&layout=compact&theme=tokyonight&hide=html,css)
+- 💎 **Diamond Price Prediction App** – Regression model using RandomForest + Streamlit  
+- 🧍 **Person Detection App** – Real-time object detection with YOLOv8  
+- 🌐 **YOLO Multi-object App** – Detects all object classes supported by YOLOv8  
+- 🎮 **Quiz Game** – Python-based with a separate question-answer module  
+- 🤖 **Chat Bout** – Python-based with different keywords
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishaimLimbu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaimLimbu&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
 
 ---
 
-> Thanks for visiting my profile — feel free to check out my projects or reach out if you want to collaborate!
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NishaimLimbu&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### ⏳ Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishaimLimbu&theme=tokyonight" />
+</p>
+
+---
+
+> *"Keep coding. Every project, big or small, brings you one step closer to mastery."*
+
+---
+
