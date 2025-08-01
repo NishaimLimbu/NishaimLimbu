@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishaim Limbu</h1>
 <h3 align="center">Aspiring AI/ML/DL Engineer & Web Developer from Nepal 🇳🇵</h3>
-
-<p align="center">
-  <img src="https://github.com/NishaimLimbu/NishaimLimbu/blob/main/assets/banner.png" alt="Profile Banner" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -47,34 +42,26 @@
 - 🌐 **YOLO Multi-object App** – Detects all object classes supported by YOLOv8  
 - 🎮 **Quiz Game** – Python-based with a separate question-answer module  
 - 🤖 **Chat Bout** – Python-based with different keywords
+
+---
+
+## 📬 Let's connect!
+
+- 📧 Email: shaming000731@gmail.com  
+- 🔗 GitHub: [github.com/NishaimLimbu](https://github.com/NishaimLimbu)  
+- 💬 Facebook: [facebook.com/shaming.limbu.2025](https://facebook.com/shaming.limbu.2025)
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishaimLimbu&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaimLimbu&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishaimLimbu&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### ⏳ Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishaimLimbu&theme=tokyonight" />
-</p>
-
----
-
 > *"Keep coding. Every project, big or small, brings you one step closer to mastery."*
-
+> Thanks for visiting my profile — feel free to check out my projects or reach out if you want to collaborate!
 ---
 
