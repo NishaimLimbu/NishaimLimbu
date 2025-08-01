@@ -1,56 +1,53 @@
-<h1 align="center">Hi 👋, I'm Nishaim Limbu</h1>
-<h3 align="center">An Aspiring AI/ML/DL Engineer & Web Developer from Nepal 🇳🇵</h3>
+# Hi there 👋 I'm Nishaim Limbu
+
+I'm from Nepal 🇳🇵 and I'm passionate about building things with **AI**, **Machine Learning**, **Deep Learning**, and **Web Development**. I'm always learning something new and trying to apply it in small, real-world projects.
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 A little about me
 
-- 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, and Web Development**
-- 🧠 I enjoy building real-time apps with **Python, Streamlit, and TensorFlow**
-- 💬 Ask me about anything in:
-  - 🧑‍💻 Programming: Python, C
-  - 🌐 Web: HTML, CSS
-  - 🔧 Frameworks: Streamlit
-  - 📊 Tools: NumPy, Pandas, scikit-learn, TensorFlow, and more...
-- 📫 Reach me at: **shaming000731@gmail.com**
-- 🌐 GitHub: [NishaimLimbu](https://github.com/NishaimLimbu)
+- 🌱 Currently learning and working with ML, DL, and frontend development
+- 🤖 I enjoy solving both **regression** and **classification** problems  
+- 📊 Also exploring **unsupervised learning** like clustering and dimensionality reduction
+- 🧹 I’m comfortable with cleaning and preparing messy data using tools like **Pandas**
+- 🎯 Most of my projects are focused on real-time prediction, quiz games, object detection, and data analysis
 
 ---
 
-### 🛠️ Languages & Tools
+## 🧠 Skills & Tools I Use
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+**Languages & Frontend:**
+- Python 🐍, C
+- HTML, CSS
+
+**Libraries & Frameworks:**
+- NumPy, Pandas, Matplotlib, Seaborn
+- scikit-learn, TensorFlow
+- Streamlit (for making quick ML web apps)
 
 ---
 
-### 📈 GitHub Stats
+## 📁 A few things I’ve worked on
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishaimLimbu&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaimLimbu&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Let's Connect!
-
-- 📧 **Email**: shaming000731@gmail.com  
-- 🌐 **GitHub**: [github.com/NishaimLimbu](https://github.com/NishaimLimbu)
+- 💎 **Diamond Price Prediction App** using RandomForestRegressor and Streamlit  
+- 🎮 A **quiz game** using Python modules  
+- 🧍 **YOLOv8 Object Detection App** (person-only and multi-class versions)  
+- 📊 Notebooks for exploring and cleaning datasets using Pandas, Seaborn, and Matplotlib
 
 ---
 
-> “Consistency is more important than perfection — just keep building!”
+## 📬 Let's connect!
 
+- 📧 Email: shaming000731@gmail.com  
+- 🔗 GitHub: [github.com/NishaimLimbu](https://github.com/NishaimLimbu)  
+- 💬 Facebook: [facebook.com/shaming.limbu.2025](https://facebook.com/shaming.limbu.2025)
+
+---
+
+## 📊 GitHub Stats (Top Languages)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaimLimbu&layout=compact&theme=tokyonight&hide=html,css)
+
+---
+
+> Thanks for visiting my profile — feel free to check out my projects or reach out if you want to collaborate!
