@@ -42,7 +42,7 @@
 - 🧍 **Person Detection App** – Real-time object detection with YOLOv8  
 - 🌐 **YOLO Multi-object App** – Detects all object classes supported by YOLOv8  
 - 🎮 **Quiz Game** – Python-based with a separate question-answer module  
-- 🤖 **Chat Bout** – Python-based with different keywords
+- 🤖 **Chat Bot** – Python-based with different keywords
 
 ---
 
